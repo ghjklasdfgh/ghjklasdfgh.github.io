@@ -4,24 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
----
-
-layout: page
-icon: fas fa-info-circle
-order: 4
---------
-
-# About Me
-
 Hi, I'm **Hao Zhibo**, a software engineer based in **Shanghai**, currently working at **[Alibaba T-Head](https://www.t-head.cn/)**.
 
 I received my M.S. in Computer Science and Technology from **[Northeastern University(China)](https://www.neu.edu.cn/)**.
 
-My work and interests include **LLM inference**, **Agents**, and **Full-stack engineering**. During my postgraduate studies, my research focused on blockchain distributed systems.
+My works and interests include **LLM inference**, **Agents**, and **Full-stack engineering**. During my postgraduate studies, my research focused on blockchain distributed systems.
 
-I write to learn, to think, and to preserve ideas.
-
-Thanks for stopping by.
+I write to learn, to think, and to preserve ideas. Thanks for stopping by.
 
 ## Areas of Interest
 
